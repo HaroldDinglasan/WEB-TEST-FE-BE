@@ -1,1 +1,1 @@
-# WEB-TEST-FE-BE
+# osd-records-mgt-web
